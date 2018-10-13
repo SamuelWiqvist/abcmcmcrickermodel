@@ -1,1 +1,1 @@
-# ABC-MCMC examples 
+# ABC-MCMC for Ricker model 
