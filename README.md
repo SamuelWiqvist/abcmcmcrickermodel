@@ -1,1 +1,1 @@
-# ABC-RS and ABC-MCMC examples 
+# ABC-MCMC examples 
